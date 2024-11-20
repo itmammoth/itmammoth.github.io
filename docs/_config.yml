@@ -31,7 +31,7 @@ github_username:  itmammoth
 
 # Build settings
 theme: minima
-remote_theme: minima
+remote_theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
 
