@@ -30,7 +30,7 @@ twitter_username: itmammoth
 github_username:  itmammoth
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
