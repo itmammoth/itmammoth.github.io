@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+![ITMammoth]({{site.baseUrl}}/assets/images/itmammoth.webp)
+
+Welcome to itmammoth's 素敵なpage.
+
+itmammothはIT界のマンモスを目指しています。
