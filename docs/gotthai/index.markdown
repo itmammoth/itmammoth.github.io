@@ -22,14 +22,12 @@ permalink: /gotthai/
 
 そんなおかんの豚汁のようにアットホームなWebサイトごったいですが、こんなサイトでも**月に100万ものページビュー**があります。ありがたい話です。タイ語って英語なんかと比べると圧倒的にマイナーな言語にあたると思うので、別にアクセス数は期待して作ったわけじゃなかったんですがね。嬉しい誤算というやつです。まあろくなライバルも見当たらないので、掌握できれば結構な数になるということなのでしょうか。ニッチなのは強いですね。ちなみタイ語辞書だとWeblioのタイ語辞書がトップに来ますが、あちらは真面目なタイ語学習者には全く使い物にならない代物だと思います。（そういえば昔、Weblioがごったいをスクレイピングさせてくれとお願いしてきたのですが、お願いしてきた方から音信不通になったことがあったんですが、あれは何だったんだろう・・・）
 
-## モバイルアプリ作りました
-
-そんなごったいも、モバイルアプリが欲しいというリクエストが結構多かったので、ようやく重い腰を上げ、なんとか完成に漕ぎ着けました。
+## モバイルアプリをGET👇
 
 ![ごったい](https://play-lh.googleusercontent.com/oFVBpjVae5XZo67XVtkd-wRxre62ZTzPjLiGUII1U6JmFh3_gm0SPakHPS5hKbhm-lY=w480-h960-rw "ごったい")
 
-[[ iOS版 ]](https://apps.apple.com/jp/app/%E3%81%94%E3%81%A3%E3%81%9F%E3%81%84-%E3%82%BF%E3%82%A4%E8%AA%9E%E8%BE%9E%E6%9B%B8-%E7%99%BA%E9%9F%B3%E3%81%BE%E3%81%A7%E3%81%97%E3%81%A3%E3%81%8B%E3%82%8A%E5%8B%89%E5%BC%B7/id1629178814?platform=iphone)
-[[ Android版 ]](https://play.google.com/store/apps/details?id=itmammoth.gotthai_m)
+[![iOS版]({{ "/assets/images/app-store.png" | relative_url }})](https://apps.apple.com/jp/app/%E3%81%94%E3%81%A3%E3%81%9F%E3%81%84-%E3%82%BF%E3%82%A4%E8%AA%9E%E8%BE%9E%E6%9B%B8-%E7%99%BA%E9%9F%B3%E3%81%BE%E3%81%A7%E3%81%97%E3%81%A3%E3%81%8B%E3%82%8A%E5%8B%89%E5%BC%B7/id1629178814?platform=iphone)
+[![Android版]({{ "/assets/images/play-store.png" | relative_url }})](https://play.google.com/store/apps/details?id=itmammoth.gotthai_m)
 
 サイトをそのままアプリにしたような作りになっちゃってますが、アプリならではの機能は色々と追加していきたいなと思っています。
 
