@@ -12,7 +12,7 @@ permalink: /gotthai/
 
 ## モバイルアプリをGET👇
 
-[![iOS版]({{ "/assets/images/app-store.png" | relative_url }})](https://apps.apple.com/jp/app/%E3%81%94%E3%81%A3%E3%81%9F%E3%81%84-%E3%82%BF%E3%82%A4%E8%AA%9E%E8%BE%9E%E6%9B%B8-%E7%99%BA%E9%9F%B3%E3%81%BE%E3%81%A7%E3%81%97%E3%81%A3%E3%81%8B%E3%82%8A%E5%8B%89%E5%BC%B7/id1629178814?platform=iphone)
+[![iOS版]({{ "/assets/images/app-store.png" | relative_url }})](https://apps.apple.com/jp/app/id1629178814)
 [![Android版]({{ "/assets/images/play-store.png" | relative_url }})](https://play.google.com/store/apps/details?id=itmammoth.gotthai_m)
 
 ## ごったいって？
